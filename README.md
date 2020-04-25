@@ -1,2 +1,2 @@
 # ML-ex
- machines learning exercise
+ machine learning exercise
