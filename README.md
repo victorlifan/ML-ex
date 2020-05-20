@@ -3,7 +3,7 @@
 
  + Libraries:
    + Pytorch
-   + Sklaern
+   + Sklearn
  - [Supervised learning](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning):
    + [Naive Bayes' spam classifier](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning/Naive%20Bayes'%20spam%20classifier)
    + [decision trees](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning/decision%20trees)
