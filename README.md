@@ -4,6 +4,7 @@
  + Libraries:
    + Pytorch
    + Sklearn
+   + Keras
  - [Supervised learning](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning):
    + [Naive Bayes' spam classifier](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning/Naive%20Bayes'%20spam%20classifier)
    + [decision trees](https://github.com/victorlifan/ML-ex/tree/master/Supervised%20learning/decision%20trees)
@@ -19,3 +20,4 @@
  - [Neural Network](https://github.com/victorlifan/ML-ex/tree/master/deep%20%20learning)
     + [Gradient Descent](https://github.com/victorlifan/ML-ex/blob/master/deep%20%20learning/GradientDescent.ipynb)
     + [PyTorch ex](https://github.com/victorlifan/ML-ex/tree/master/deep%20%20learning/PyTorch)
+    + [Keras]()
